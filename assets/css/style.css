@@ -57,3 +57,9 @@ margin-right: 0.7rem;
 .redes-sociales a:hover {
 opacity: 0.7;
 }
+
+@media screen and (min-width:1023px) {
+  .navbar-nav{
+    background-color: transparent!important;
+  }
+}
