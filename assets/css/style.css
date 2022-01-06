@@ -1,0 +1,22 @@
+body {
+    font-family: "Raleway", sans-serif !important;
+    background: #000000 !important;
+    color: #ffffff !important;
+  }
+
+
+  .navbar {
+    background-color: transparent !important;
+  }
+
+  /* sección quienes somos */
+  .icono {
+    background-color: #25a3b7;
+    color: #ffffff;
+  }
+
+  /* seccion destacados */
+  .card {
+    background-color: #25a3b7 !important;
+    border-color: #ffffff !important;
+  }
